@@ -5,6 +5,12 @@
 This Vendor Management System is built using Django and Django REST Framework. The system handles vendor profiles, purchase orders, and calculates vendor performance metrics. It provides API endpoints for managing vendors, tracking purchase orders, and evaluating vendor performance.
 
 
+## Api documentation 
+
+```
+https://documenter.getpostman.com/view/28221885/2s9YeEbCCm
+```
+
 ## Installation and Usage
 
 1. Clone the repository:
